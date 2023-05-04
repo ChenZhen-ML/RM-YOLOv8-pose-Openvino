@@ -1,0 +1,4 @@
+/home/chenzhen/Documents/Opencv_C++/yolov8_inference/cmake-build-debug/CMakeFiles/detector.dir
+/home/chenzhen/Documents/Opencv_C++/yolov8_inference/cmake-build-debug/CMakeFiles/detect_test.dir
+/home/chenzhen/Documents/Opencv_C++/yolov8_inference/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chenzhen/Documents/Opencv_C++/yolov8_inference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
